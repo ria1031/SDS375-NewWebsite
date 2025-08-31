@@ -1,29 +1,47 @@
 ---
-title: "Index.Rmd"
-output: html_document
-date: "2025-08-28"
+title: "Ria Narayanan"
+image: "IMG_4480.png"
+links:
+  - label: Github
+    url: https://github.com/ria1031/SDS375-NewWebsite/tree/main
+output: postcards::solana
+
 ---
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Bio
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Hi! My name is Ria Narayanan and I am I am a senior at UT Austin studying Statistics and Data Sciences with a major in Entrepreneurship.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
+Welcome to my website!
+
+
+
+## My favorite things to do
+
+- Hanging out with my family and friends outside
+- Playing soccer
+- Traveling
+- Trying new foods to eat
+
+### My GitHub
+
+[Visit my Github Profile](https://github.com/ria1031/SDS375-NewWebsite/tree/main)
+
+## An Image
+![My Image](IMG_4480.png)
+
+
+### Build Time
+
+```{r}
+Sys.time()
+
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
