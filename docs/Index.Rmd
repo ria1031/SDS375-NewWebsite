@@ -9,33 +9,27 @@ output: postcards::solana
 ---
 
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Bio
+## Bio:
 
-Hi! My name is Ria Narayanan and I am I am a senior at UT Austin studying Statistics and Data Sciences with a major in Entrepreneurship.
+Hi! My name is Ria Narayanan and I am senior at UT Austin studying Statistics and Data Sciences with a major in Entrepreneurship.
 
 
 Welcome to my website!
 
 
 
-## My favorite things to do
+## My favorite things to do:
 
 - Hanging out with my family and friends outside
 - Playing soccer
 - Traveling
 - Trying new foods to eat
 
-### My GitHub
 
-[Visit my Github Profile](https://github.com/ria1031/SDS375-NewWebsite/tree/main)
-
-## An Image
-![My Image](IMG_4480.png)
 
 
 ### Build Time
