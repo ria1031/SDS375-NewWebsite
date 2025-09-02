@@ -31,9 +31,6 @@ Welcome to my website!
 
 
 
-
-### Build Time
-
 ```{r}
 Sys.time()
 
