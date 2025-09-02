@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Bio:
 
-Hi! My name is Ria Narayanan and I am a senior at UT Austin studying Statistics and Data Sciences with a major in Entrepreneurship. 
+Hi! My name is Ria Narayanan and I am a senior at UT Austin studying Statistics and Data Sciences with a major in Entrepreneurship. I am interestested in the intersection of business and technology. My experience includes being an SDE intern at Amazon this past summer, a rotationary intern at KPMG Summer 2024, and a business analyst intern at Working Solutions Summer 2023. I am very excited for the school year.
 
 
 Welcome to my website!
